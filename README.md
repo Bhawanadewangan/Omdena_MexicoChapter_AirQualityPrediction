@@ -1,1 +1,1 @@
-## Omdena_MexicoChapter_AirQualityPrediction_Project
+## Omdena_MaxicoChapter_AirQualityPrediction_Project
